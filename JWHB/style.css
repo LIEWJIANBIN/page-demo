@@ -1,0 +1,22 @@
+body{
+    font-family:Roboto;
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login{
+    background-color: pink;
+    width: 400px;
+    color:white
+    padding:40px;
+    text-align:center;
+}
+
+.login input{
+display:block;
+margin:20px auto;
+text-align: center;
+background: none;
+}
